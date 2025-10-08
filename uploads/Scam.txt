@@ -1,0 +1,12 @@
+Subject: Urgent Account Verification Needed
+
+Dear Customer,
+
+We have detected suspicious activity on your bank account.
+Please verify your details immediately to prevent suspension.
+
+Click the link below to confirm:
+http://secure-bank-login.example.com/verify
+
+Sincerely,
+Bank Security Team

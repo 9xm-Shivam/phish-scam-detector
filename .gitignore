@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.joblib
+*.csv
+*.zip
+.DS_Store
+.env
