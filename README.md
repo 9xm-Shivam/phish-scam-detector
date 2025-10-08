@@ -1,10 +1,8 @@
-# AI-Powered Phishing & Scam Detection System (Starter)
+# AI-Powered Phishing & Scam Detection System
 
 This is a starter Flask project that demonstrates:
 - URL scanning (heuristics + demo TF-IDF model)
 - Document (PDF / TXT / HTML) scanning for scam/phishing-like text (demo TF-IDF model)
-
-> NOTE: The included models are **demo** models. Run `python model/create_demo_models.py` locally to generate demo model files, then replace with full models trained on public datasets for production-quality results.
 
 ## Quick start (local)
 
